@@ -2,7 +2,7 @@ import java.util.*;
 
 public class c315 {
 
-	private static int xorMultiplyer (int a, int b){
+	private static int xorMultiplier (int a, int b){
 		int div, op;
 		//Selecting the smaller one to be the one iterating over
 		if(a<b){
@@ -30,7 +30,7 @@ public class c315 {
 		while(sc.hasNextInt()){
 			int a = sc.nextInt();
 			int b = sc.nextInt();
-			int c = xorMultiplyer(a,b);
+			int c = xorMultiplier(a,b);
 			System.out.println(a + "@" + b + "=" + c);	
 		}
 		sc.close();
