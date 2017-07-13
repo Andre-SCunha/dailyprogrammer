@@ -2,9 +2,10 @@
 
 Challenges from the Daily Programmer subreddit
 
-Current done challanges:
+Current done challenges:
 
-| Challange Number | Challange Difficulty | Challange Name | Done in | 
-| ---------------- | -------------------- | -------------- | ------- |
-| ???              | Easy                 | ????           |  Java   |
+| Challenge Number | Challenge Difficulty | Challenge Name     | Done in | 
+| ---------------- | -------------------- | --------------     | ------- |
+| 239              | Easy                 | A Game of Threes   |  Java   |
+| 315              | Easy                 | XOR Multiplication |  Java   |
 
