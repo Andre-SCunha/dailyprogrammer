@@ -4,8 +4,7 @@ Challenges from the Daily Programmer subreddit
 
 Current done challenges:
 
-| Challenge Number | Challenge Difficulty | Challenge Name     | Done in | 
-| ---------------- | -------------------- | --------------     | ------- |
-| 239              | Easy                 | A Game of Threes   |  Java   |
-| 315              | Easy                 | XOR Multiplication |  Java, Go   |
+| Challenge Number | Challenge Difficulty | Challenge Name      | Done in | 
+| ---------------- | -------------------- | --------------      | ------- |
+| 1088             | 3/10                 | Bubbles and Buckets |  C++    
 
