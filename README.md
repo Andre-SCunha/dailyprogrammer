@@ -1,6 +1,6 @@
 # r/dailyprogrammer
 
-Challenges from the Daily Programmer subreddit
+> Challenges from the Daily Programmer subreddit
 
 Current done challenges:
 
